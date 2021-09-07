@@ -11,7 +11,7 @@ I have added 5 features per product
 * Name of Brand
 * Product Description
 * Price
-*Quantity
+* Quantity
 
 
 
