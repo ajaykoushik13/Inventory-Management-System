@@ -3,19 +3,33 @@ Skill India Python For ML/AI Internship - Inventory Management System Project
 
 
 
+## I have made an inventory management system which is working on NoSQL based database
 
-**Functionality introduce in this project**
+I have added 5 features per product
 
-  1)Creating an Inventory
+* Product
+* Name of Brand
+* Product Description
+* Price
+*Quantity
+
+
+
+## Functionality introduce in this project
+
+  * Creating an Inventory
   
-  2)Creating an Inventory json File
+  * Creating an Inventory json File
   
-  3)Billing and Updating our Inventory
+  * Billing and Updating our Inventory
   
-  4)Creating an Total Sales json File
+  * Creating an Total Sales json File
   
-  5)Adding items to the inventory
+  * Adding items to the inventory
   
-  6)Updating items to inventory
+  * Updating items to inventory
   
-  7)Total Sales Bill
+  * Total Sales Bill
+
+## Contact Info
+https://www.linkedin.com/in/ajay-koushik-k-n-310364191
